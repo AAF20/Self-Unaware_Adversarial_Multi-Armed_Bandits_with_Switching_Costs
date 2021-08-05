@@ -1,7 +1,5 @@
 # Self-Unaware_Adversarial_Multi-Armed_Bandits_with_Switching_Costs
 
-
-
 This folder contains Matlab codes for the IEEE Transactions on Neural 
 Networks and Learning Systems (TNNLS) submission: 
 titled "Self Unaware Adversarial Multi-Armed Bandits with Switching Costs". 
@@ -22,4 +20,9 @@ parameters can be set according to the setting provided in the paper.
 - In the "Algorithm_2_PBOA-SC" folder, the reader can find the main 
 m-file and all the required functions to run PBOA-SC algorithm: The 
 parameters can be set according to the setting provided in the paper. 
+
+### Algorithm 1:Play-OR-Observe with Switching Costs (PORO-SC)
+
+<img width="484" alt="Screen Shot 2021-08-05 at 9 13 04 AM" src="https://user-images.githubusercontent.com/75192031/128355829-f8b31cea-761c-471c-a406-64adc239ec67.png">
+
 
