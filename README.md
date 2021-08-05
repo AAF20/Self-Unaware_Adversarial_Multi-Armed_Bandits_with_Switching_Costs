@@ -35,6 +35,7 @@ Finally, through this study we found that a generalized version of our approach 
 To further validate and complement the theoretical findings, we conduct extensive performance evaluations over synthetic data constructed by non-stochastic MAB environment simulations, and wireless spectrum measurement data collected in real-world experiment.
 
 ### Algorithm 1: Play-OR-Observe with Switching Costs (PORO-SC)
+The first proposed algorithm, Play-OR-Observe with Switching Costs (PORO-SC) algorithm, is suitable for a self-unaware player with no observation capability in the playing round. For this player, either play or reward observation is feasible within each round. Therefore, at each round, the player decides whether to play or observe, then chooses an arm for the decision it made. By playing an arm, the player gains the arm's reward, but the player cannot observe the reward amount. By observing an arm, on the other hand, the player only observes the reward amount on the chosen arm, but cannot gaining it. At any round, if the player decides to play or observe an arm different than the arm played or observed in the previous round, the player incurs a switching cost. 
 
 <img width="484" alt="Screen Shot 2021-08-05 at 9 13 04 AM" src="https://user-images.githubusercontent.com/75192031/128355829-f8b31cea-761c-471c-a406-64adc239ec67.png">
 
