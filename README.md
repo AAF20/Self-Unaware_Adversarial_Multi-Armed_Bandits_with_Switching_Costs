@@ -25,4 +25,6 @@ parameters can be set according to the setting provided in the paper.
 
 <img width="484" alt="Screen Shot 2021-08-05 at 9 13 04 AM" src="https://user-images.githubusercontent.com/75192031/128355829-f8b31cea-761c-471c-a406-64adc239ec67.png">
 
+### Algorithm 2 Play-But-Observe-Another with Switching Costs (PBOA-SC)
 
+<img width="472" alt="Screen Shot 2021-08-05 at 9 16 54 AM" src="https://user-images.githubusercontent.com/75192031/128356294-1d67aed9-69d5-4aa2-a8d0-949a4c69520d.png">
