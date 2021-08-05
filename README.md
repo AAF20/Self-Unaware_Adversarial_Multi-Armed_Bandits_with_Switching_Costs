@@ -34,10 +34,10 @@ However, we derive an upper bound for switching cost as $c\!\leq\!1/\sqrt[3]{m^2
 Finally, through this study we found that a generalized version of our approach gives an interesting sublinear regret upper bound result of $\tilde{O}\left(T^{\frac{s+1}{s+2}}\right)$ for any self-unaware bandit player with $s$ number of binary decision dilemma before taking the action.
 To further validate and complement the theoretical findings, we conduct extensive performance evaluations over synthetic data constructed by non-stochastic MAB environment simulations, and wireless spectrum measurement data collected in real-world experiment.
 
-### Algorithm 1:Play-OR-Observe with Switching Costs (PORO-SC)
+### Algorithm 1: Play-OR-Observe with Switching Costs (PORO-SC)
 
 <img width="484" alt="Screen Shot 2021-08-05 at 9 13 04 AM" src="https://user-images.githubusercontent.com/75192031/128355829-f8b31cea-761c-471c-a406-64adc239ec67.png">
 
-### Algorithm 2 Play-But-Observe-Another with Switching Costs (PBOA-SC)
+### Algorithm 2: Play-But-Observe-Another with Switching Costs (PBOA-SC)
 
 <img width="472" alt="Screen Shot 2021-08-05 at 9 16 54 AM" src="https://user-images.githubusercontent.com/75192031/128356294-1d67aed9-69d5-4aa2-a8d0-949a4c69520d.png">
