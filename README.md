@@ -41,4 +41,8 @@ The first proposed algorithm, Play-OR-Observe with Switching Costs (PORO-SC) alg
 
 ### Algorithm 2: Play-But-Observe-Another with Switching Costs (PBOA-SC)
 
+We propose the second online learning algorithm, Play-But-Observe-Another with Switching Costs (PBOA-SC) algorithm for a self-unaware player with at least one observation capability. Based on this learning policy, at each round, the player chooses arms dynamically for both play and observation. First, we assume
+the player's observation capability is only one arm. Then, we will also generalize it to multiple arm observation capability. We consider that the player can choose an arm to play, and at the same round, choose another arm, other than the played arm, to observe the reward. Again, if the player switches the arm it incurs the costs. 
+
+
 <img width="472" alt="Screen Shot 2021-08-05 at 9 16 54 AM" src="https://user-images.githubusercontent.com/75192031/128356294-1d67aed9-69d5-4aa2-a8d0-949a4c69520d.png">
