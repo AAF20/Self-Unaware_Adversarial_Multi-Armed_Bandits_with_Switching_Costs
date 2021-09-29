@@ -46,3 +46,15 @@ the player's observation capability is only one arm. Then, we will also generali
 
 
 <img width="472" alt="Screen Shot 2021-08-05 at 9 16 54 AM" src="https://user-images.githubusercontent.com/75192031/128356294-1d67aed9-69d5-4aa2-a8d0-949a4c69520d.png">
+
+Cite [BibTeX]
+
+@ARTICLE{9552533,
+  author={Alipour-Fanid, Amir and Dabaghchian, Monireh and Zeng, Kai},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Self-Unaware Adversarial Multi-Armed Bandits With Switching Costs}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2021.3110194}}
